@@ -19,8 +19,11 @@ This project involved the design and implementation of a relational database for
   - Communication tracking by event type and frequency
   - Aggregated listserv participation across user groups
 
+
 ## ERD Design
 The final schema design emphasizes normalization, using linking tables to handle many-to-many relationships and minimizing data redundancy. The project also introduced a master address table to consolidate location data.
+
+<img width="976" alt="ERD" src="https://github.com/user-attachments/assets/d3ee135f-3086-4de2-bd3f-fabaad7b7111" />
 
 ## Key Learnings
 - The importance of scope control and using mock data to ensure privacy
