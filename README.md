@@ -3,10 +3,6 @@
 ## Overview
 This project involved the design and implementation of a relational database for the Institute of Applied Agriculture (IAA) at the University of Maryland. The goal was to create a centralized system to efficiently manage data related to prospective students, current enrollees, and alumni. This system enhances recruitment, communication, and alumni engagement through a unified, query-friendly structure.
 
-## Team
-- Goutham Patchipulusu  
-- Rebecka Tetter
-
 ## Tools & Technologies
 - **Database**: MySQL  
 - **Data Modeling**: ERD (Entity Relationship Diagram)  
